@@ -1,3 +1,4 @@
+https://github.com/bitcode-tech/bc7215
 https://github.com/VIDI-X/VIDI-X_BQ24295
 https://github.com/pervu/FIFObuf
 https://github.com/orkungedik/kmeans
@@ -6817,3 +6818,4 @@ https://github.com/AntonioPrevitali/ApSDM120
 https://github.com/SNP-FIT/snp-light
 https://github.com/MOMIZICH/PBEnhancer
 https://github.com/MOMIZICH/OneShot
+https://github.com/siroshy/SerialTerminalIO
